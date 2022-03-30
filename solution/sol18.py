@@ -8,6 +8,6 @@ def createlist():
 a=createlist()
 for i in a:
     print(i)
-
+//
 
 
