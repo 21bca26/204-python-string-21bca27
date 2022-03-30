@@ -20,4 +20,4 @@ b=address()
 print(b)
 for  m in range(3):
     o=print('{}-->{}'.format(student,address))
-    output()
+   // output()
